@@ -1,0 +1,19 @@
+mkdir project1
+cd project1
+mkdir qcreports clean postqc defaultfastp
+performing fastqc
+conda activate qc
+fastqc /NGS/Project1/RawData/sample1_1.fastq.gz /NGS/Project1/RawData/sample1_2.fastq.gz -o ./project1/qcreports
+fastqc /NGS/Project1/RawData/sample2_1.fastq.gz /NGS/Project1/RawData/sample2_2.fastq.gz -o ./project1/qcreports
+dfaultfastp
+fastp -i SRR10613522_1.fastq.gz -I SRR10613522_2.fastq.gz -o /home/u22/project1/defaultfastp/SRR10613522_1_trimmed.fastq -O /home/u22/project1/defaultfastp/SRR10613522_2_trimmed.fastq 
+customfastp
+fastp -i SRR10613549_1.fastq.gz -I SRR10613549_2.fastq.gz -o /home/u22/project1/customizedp/sample2-1_out.fastp -O /home/u22/project1/customizedp/sample2-2_out.fastp -f 10 -F 10 -h /home/u22/project1/customizedp/fastp_report.html -j /home/u22/project1/customizedp/fastp_report.json
+overrepresentation 
+default
+fastp -i SRR10613549_2.fastq.gz -o /home/u22/project1/customizedp/sample22-2_out.fastp -f 10 -p -h /home/u22/project1/customizedp/sample22_2fastp_report.html -j /home/u22/project1/customizedp/sample22_2fastp_report.json
+value 50
+fastp -i SRR10613549_2.fastq.gz -o /home/u22/project1/practice/sample22-2_out.fastp -f 10 -p 50 -h /home/u22/project1/practice/sample22_2fastp_report.html -j /home/u22/project1/practice/sample22_2fastp_report.json
+
+ 
+
