@@ -1,0 +1,4 @@
+mnist-mlp-cnn.ipynb
+iris-mlp.ipynb
+cifar10-mlp-cnn.ipynb
+fashion-mnist-mlp-cnn.ipynb
