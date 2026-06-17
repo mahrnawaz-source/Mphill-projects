@@ -1,0 +1,45 @@
+QuaSAR-Model(PLS): c:/users/hp/desktop/mahreen/processed.mdb
+Thu Dec 05 22:01:32 2024
+
+Activity Field               : log EC50
+Weight Field                 : 
+Condition Limit              : 1e+006
+Component Limit              : 10
+
+Observations                 : 141
+Descriptors                  : 5
+Components Used              : 5
+Condition Number             : 50.511194
+
+ROOT MEAN SQUARE ERROR (RMSE): 0.46999     
+CORRELATION COEFFICIENT (R2) : 0.71818     
+CROSS-VALIDATED RMSE         : 0.49669     
+CROSS-VALIDATED R2           : 0.68557     
+
+ESTIMATED LINEAR MODEL
+
+log EC50 =
+        -3.94166
+        +0.00671 * SMR_VSA6
+        +0.01197 * Q_VSA_HYD
+        -0.00520 * SlogP_VSA7
+        -0.01440 * PEOE_VSA+1
+        +0.01059 * PEOE_VSA-1
+
+ESTIMATED NORMALIZED LINEAR MODEL (SD = Standard Deviation)
+
+log EC50 / SD(log EC50) =
+        -4.45217
+        +0.22522 * SMR_VSA6 / SD(SMR_VSA6)
+        +0.92871 * Q_VSA_HYD / SD(Q_VSA_HYD)
+        -0.36039 * SlogP_VSA7 / SD(SlogP_VSA7)
+        -0.38240 * PEOE_VSA+1 / SD(PEOE_VSA+1)
+        +0.53574 * PEOE_VSA-1 / SD(PEOE_VSA-1)
+
+RELATIVE IMPORTANCE OF DESCRIPTORS
+
+0.242505  SMR_VSA6
+1.000000  Q_VSA_HYD
+0.388058  SlogP_VSA7
+0.411749  PEOE_VSA+1
+0.576865  PEOE_VSA-1
