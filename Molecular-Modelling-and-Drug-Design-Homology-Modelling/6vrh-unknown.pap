@@ -1,0 +1,49 @@
+ _aln.pos         10        20        30        40        50        60
+6vrh      -------------------------------------------------------------------- 
+unknown   METPLNSQKQLSACEDGDDCEGVLQKVVPTPGDKVEGQISNGYSAIPSGAGDRHSIPTTTTLVAELHQ 
+ _consrvd
+
+ _aln.p   70        80        90       100       110       120       130
+6vrh      GERETWGKKVDFLLSVIGYAVDLGNVWRFPYICYQNGGGAFLLPYTIMAIFGGIPLFYMELALGQYHR 
+unknown   GERETWGKKVDFLLSVIGYAVDLGNVWRFPYICYQNGGGAFLLPYTIMAIFGGIPLFYMELALGQYHR 
+ _consrvd ********************************************************************
+
+ _aln.pos  140       150       160       170       180       190       200
+6vrh      NGCISIWRKICPIFKGIGYAICIIAFYIASYYNTIMAWALYYLISSFTDQLPWTSCKNSWNTGNCTNY 
+unknown   NGCISIWRKICPIFKGIGYAICIIAFYIASYYNTIMAWALYYLIS-FTDQLPWTSCKNSWNTGNCTNY 
+ _consrvd ********************************************* **********************
+
+ _aln.pos    210       220       230       240       250       260       270
+6vrh      FSEDNITWTLHSTSPAEEFYTRHVLQIHRSKGLQDLGGISWQLALCIMLIFTVIYFSIWKGVKTSGKV 
+unknown   FSEDNITWTLHSTSPAEEFYTRHVLQIHRSKGLQDLGGISWQLALCIMLIFTVIYFSIWKGVKTSGKV 
+ _consrvd ********************************************************************
+
+ _aln.pos      280       290       300       310       320       330       340
+6vrh      VWVTATFPYIILSVLLVRGATLPGAWRGVLFYLKPNWQKLLETGVWIDAAAQIFFSLGPGFGVLLAFA 
+unknown   VWVTATFPYIILSVLLVRGATLPGAWRGVLFYLKPNWQKLLETGVWIDAAAQIF-SLGPGFGVLLAFA 
+ _consrvd ****************************************************** *************
+
+ _aln.pos        350       360       370       380       390       400
+6vrh      SYNKFNNNCYQDALVTSVVNCMTSFVSGFVIFTVLGYMAEMRNEDVSEVAKDAGPSLLFITYAEAIAN 
+unknown   SYNKFN-NCYQDALVTSVVNCMTSFVSGFVIFTVLGYMAEMRNEDVSEVAKDAGPSLLFITYAEAIAN 
+ _consrvd ****** *************************************************************
+
+ _aln.p  410       420       430       440       450       460       470
+6vrh      MPASTFFAIIFFLMLITLGLDSTFAGLEGVITAVLDEFPHVWAKRRERFVLAVVITCFFGSLVTLTFG 
+unknown   MPASTFFAIIFFLMLITLGLDSTFAGLEGVITAVLDEFPHVWAKRRERFVLAVVITCFFGSLVTLTFG 
+ _consrvd ********************************************************************
+
+ _aln.pos  480       490       500       510       520       530       540
+6vrh      GAYVVKLLEEYATGPAVLTVALIEAVAVSWFYGITQFCRDVKEMLGFSPGWFWRICWVAISPLFLLFI 
+unknown   GAYVVKLLEEY--APAVLTVALIEAVAVSWFYGITQFCRDVKEMLGFSPGWFWRICWVAISPLFLLFI 
+ _consrvd ***********   ******************************************************
+
+ _aln.pos    550       560       570       580       590       600       610
+6vrh      ICSFLMSPPQLRLFQYNYPYWSIILGYCIGTSSFICIPTYIAYRLIITPGTFKERIIKSITPETP--- 
+unknown   ICSFLMSPPQLRLFQYNYPYWSIILGYCIGTSSFICIPTYIAYRLIITPGTFKE-IIKSITPETPTEI 
+ _consrvd ****************************************************** **********
+
+ _aln.pos      620
+6vrh      ---------- 
+unknown   PCGDIRLNAV 
+ _consrvd
