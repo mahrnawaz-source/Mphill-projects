@@ -1,46 +1,35 @@
-BS Biotechnology Thesis Research: Multi-Epitope Vaccine against Staphylococcus hominis
-Overview
+# Published Research: Multi-Epitope Vaccine Candidate against Rickettsia-Based Rickettsioses
 
-This repository contains a public academic summary of my BS Biotechnology thesis research on multi-epitope vaccine design against Staphylococcus hominis.
+## Overview
 
-The main research project was published as a first-author research article:
+This repository page summarises my co-authored research article on the immunoinformatics-based design and evaluation of a multi-epitope vaccine candidate against Rickettsia-based rickettsioses.
 
-Genome-Based Multi-Antigenic Epitopes Vaccine Construct Designing against Staphylococcus hominis Using Reverse Vaccinology and Biophysical Approaches
-Published in Vaccines, 2022, 10(10), 1729.
+## Publication
 
-Thesis Work
+**Title:** Deciphering Immune Protective Efficacy and Solvated Dynamics of a Multi-Epitope Vaccine Candidate against Rickettsia-Based Rickettsioses
 
-The original BS thesis focused on computational vaccine design using reverse vaccinology, pan-genome analysis, subtractive proteomics, immunoinformatics, molecular docking, molecular dynamics simulation, and binding energy analysis.
+**Authors:** Sajjad Ahmad, Safa M. Abdulateef, Tabarak Sabah Jassim, Mahreen Nawaz, Samira Sanami, Nadeem Khan, Salma Mohammed Aljahdali, Rehana Masood, Mohammad Abdullah Aljasir, Taghreed N. Almanaa, Saifullah Khan, Muhammad Irfan
 
-The second volume of the thesis was additional experimental validation work based on the published vaccine design research. This second volume was not published as a separate paper.
+**Journal:** *In Silico Research in Biomedicine*, 2025, 1, 100052
 
-Experimental Validation
+**Official Article Link:**  
+https://www.sciencedirect.com/science/article/pii/S3050787125000514
 
-The second thesis volume included additional validation work such as recombinant multi-epitope peptide expression and purification, SDS-PAGE analysis, antibody titre measurement, and bacterial load assessment.
+## My Contribution
 
-Due to limited laboratory facilities at my university, the experimental validation work was externally performed/outsourced with permission and support. My contribution included research coordination, funding arrangement, interpretation of the experimental results, thesis writing, and linking the validation findings with the original published computational work.
+I contributed as a co-author to this published research article. The study involved computational vaccine design, immunoinformatics analysis, molecular docking, immune protective efficacy evaluation, and solvated dynamics analysis.
 
-Funding
+## Methods and Skills
 
-The additional experimental validation work was funded by the Directorate General of Science and Technology KPK.
+- Immunoinformatics
+- Multi-epitope vaccine design
+- Epitope prediction
+- Molecular docking
+- Molecular dynamics / solvated dynamics analysis
+- Vaccine candidate evaluation
+- Scientific writing
+- Manuscript preparation
 
-Grant Number: DGST/BPSTI/UGRS/2022-23 8794
+## Repository Note
 
-Tools and Methods
-NCBI
-BPGA
-CD-HIT
-PSORTb
-VFDB
-IEDB
-VaxiJen
-AllerTOP
-ToxinPred
-PatchDock
-FireDock
-UCSF Chimera
-JCAT
-SnapGene
-AMBER
-MM/GBSA
-GraphPad Prism
+This repository is for academic portfolio purposes only. The full article should be accessed through the official journal website using the link above.
